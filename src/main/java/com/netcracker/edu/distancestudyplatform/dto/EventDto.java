@@ -15,6 +15,7 @@ import java.time.LocalDateTime;
 @NoArgsConstructor
 public class EventDto {
 
+
     private Long id;
     private TeacherDto teacher;
     private SubjectDto subject;
